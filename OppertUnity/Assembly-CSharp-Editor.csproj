@@ -113,7 +113,12 @@
     <Compile Include="Assets\ProCore\ProBuilder\Editor\pb_Preferences.cs" />
     <Compile Include="Assets\ProCore\ProBuilder\Editor\pb_ScenePostProcessor.cs" />
     <Reference Include="UnityEditor.StandardEvents">
+<<<<<<< HEAD
       <HintPath>D:/Unity/TeamOppertUnity/OppertUnity/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+=======
+<<<<<<< HEAD
+      <HintPath>C:/Users/Gert-Jan/Documents/Unity/TeamOppertUnity/OppertUnity/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+>>>>>>> eff0bb3ae54fc683c1d21dc817a13c5a9803b156
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>D:/Unity/TeamOppertUnity/OppertUnity/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
@@ -122,7 +127,23 @@
       <HintPath>D:/Unity/TeamOppertUnity/OppertUnity/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
+<<<<<<< HEAD
       <HintPath>D:/Unity/TeamOppertUnity/OppertUnity/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+=======
+      <HintPath>C:/Users/Gert-Jan/Documents/Unity/TeamOppertUnity/OppertUnity/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+=======
+      <HintPath>C:/Users/M.A. Permadi/Desktop/oppertUNITY/TeamOppertUnity/OppertUnity/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.TextMeshPro.Editor">
+      <HintPath>C:/Users/M.A. Permadi/Desktop/oppertUNITY/TeamOppertUnity/OppertUnity/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.PackageManagerUI.Editor">
+      <HintPath>C:/Users/M.A. Permadi/Desktop/oppertUNITY/TeamOppertUnity/OppertUnity/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.TextMeshPro">
+      <HintPath>C:/Users/M.A. Permadi/Desktop/oppertUNITY/TeamOppertUnity/OppertUnity/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+>>>>>>> 8ff42d81b922dac6701ea75c636fccec63b11aba
+>>>>>>> eff0bb3ae54fc683c1d21dc817a13c5a9803b156
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>D:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -383,6 +404,7 @@
       <HintPath>D:/Unity/TeamOppertUnity/OppertUnity/Assets/ProCore/ProBuilder/Editor/ProBuilderEditor-Unity5.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.Advertisements">
+<<<<<<< HEAD
       <HintPath>C:/Users/Matthijs/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.Analytics">
@@ -396,6 +418,21 @@
     </Reference>
     <Reference Include="UnityEngine.StandardEvents">
       <HintPath>C:/Users/Matthijs/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.standardevents@1.0.13/UnityEngine.StandardEvents.dll</HintPath>
+=======
+      <HintPath>C:/Users/M.A. Permadi/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.Analytics">
+      <HintPath>C:/Users/M.A. Permadi/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.analytics@2.0.16/UnityEngine.Analytics.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.Analytics">
+      <HintPath>C:/Users/M.A. Permadi/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.analytics@2.0.16/Editor/UnityEditor.Analytics.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.Purchasing">
+      <HintPath>C:/Users/M.A. Permadi/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.purchasing@2.0.3/Editor/UnityEditor.Purchasing.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.StandardEvents">
+      <HintPath>C:/Users/M.A. Permadi/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.standardevents@1.0.13/UnityEngine.StandardEvents.dll</HintPath>
+>>>>>>> eff0bb3ae54fc683c1d21dc817a13c5a9803b156
     </Reference>
     <Reference Include="SyntaxTree.VisualStudio.Unity.Bridge">
       <HintPath>C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/15.0/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>

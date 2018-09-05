@@ -81,6 +81,15 @@
     <Compile Include="Assets\Standard Assets\CrossPlatformInput\Scripts\TiltInput.cs" />
     <Compile Include="Assets\Standard Assets\CrossPlatformInput\Scripts\TouchPad.cs" />
     <Compile Include="Assets\Standard Assets\CrossPlatformInput\Scripts\VirtualInput.cs" />
+    <Compile Include="Assets\Standard Assets\Environment\Water (Basic)\Scripts\WaterBasic.cs" />
+    <Compile Include="Assets\Standard Assets\Environment\Water\Water\Scripts\Displace.cs" />
+    <Compile Include="Assets\Standard Assets\Environment\Water\Water\Scripts\GerstnerDisplace.cs" />
+    <Compile Include="Assets\Standard Assets\Environment\Water\Water\Scripts\MeshContainer.cs" />
+    <Compile Include="Assets\Standard Assets\Environment\Water\Water\Scripts\PlanarReflection.cs" />
+    <Compile Include="Assets\Standard Assets\Environment\Water\Water\Scripts\SpecularLighting.cs" />
+    <Compile Include="Assets\Standard Assets\Environment\Water\Water\Scripts\Water.cs" />
+    <Compile Include="Assets\Standard Assets\Environment\Water\Water\Scripts\WaterBase.cs" />
+    <Compile Include="Assets\Standard Assets\Environment\Water\Water\Scripts\WaterTile.cs" />
     <Compile Include="Assets\Standard Assets\Utility\ActivateTrigger.cs" />
     <Compile Include="Assets\Standard Assets\Utility\AlphaButtonClickMask.cs" />
     <Compile Include="Assets\Standard Assets\Utility\AutoMobileShaderSwitch.cs" />
@@ -105,12 +114,22 @@
     <Compile Include="Assets\Standard Assets\Utility\TimedObjectDestructor.cs" />
     <Compile Include="Assets\Standard Assets\Utility\WaypointCircuit.cs" />
     <Compile Include="Assets\Standard Assets\Utility\WaypointProgressTracker.cs" />
+    <None Include="Assets\Standard Assets\Environment\Water\Water4\Shaders\FXWater4Simple.shader" />
+    <None Include="Assets\Standard Assets\Environment\Water (Basic)\Shaders\FXWaterBasic.shader" />
     <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
+    <None Include="Assets\Standard Assets\Environment\Water\Water\Shaders\FXWaterPro.shader" />
     <None Include="Assets\Standard Assets\Characters\ThirdPersonCharacter\ThirdPersonCharacterGuidelines.txt" />
     <None Include="Assets\Standard Assets\Characters\FirstPersonCharacter\FirstPersonCharacterGuidelines.txt" />
+    <None Include="Assets\Standard Assets\Environment\Water\Water4\Shaders\WaterInclude.cginc" />
+    <None Include="Assets\Standard Assets\Environment\Water\Water4\Shaders\FXWater4Advanced.shader" />
     <None Include="Assets\Standard Assets\Characters\RollerBall\RollerBallGuidelines.txt" />
     <Reference Include="UnityEditor.StandardEvents">
+<<<<<<< HEAD
       <HintPath>D:/Unity/TeamOppertUnity/OppertUnity/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+=======
+<<<<<<< HEAD
+      <HintPath>C:/Users/Gert-Jan/Documents/Unity/TeamOppertUnity/OppertUnity/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+>>>>>>> eff0bb3ae54fc683c1d21dc817a13c5a9803b156
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>D:/Unity/TeamOppertUnity/OppertUnity/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
@@ -119,7 +138,23 @@
       <HintPath>D:/Unity/TeamOppertUnity/OppertUnity/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
+<<<<<<< HEAD
       <HintPath>D:/Unity/TeamOppertUnity/OppertUnity/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+=======
+      <HintPath>C:/Users/Gert-Jan/Documents/Unity/TeamOppertUnity/OppertUnity/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+=======
+      <HintPath>C:/Users/M.A. Permadi/Desktop/oppertUNITY/TeamOppertUnity/OppertUnity/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.TextMeshPro.Editor">
+      <HintPath>C:/Users/M.A. Permadi/Desktop/oppertUNITY/TeamOppertUnity/OppertUnity/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.PackageManagerUI.Editor">
+      <HintPath>C:/Users/M.A. Permadi/Desktop/oppertUNITY/TeamOppertUnity/OppertUnity/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.TextMeshPro">
+      <HintPath>C:/Users/M.A. Permadi/Desktop/oppertUNITY/TeamOppertUnity/OppertUnity/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+>>>>>>> 8ff42d81b922dac6701ea75c636fccec63b11aba
+>>>>>>> eff0bb3ae54fc683c1d21dc817a13c5a9803b156
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>D:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -335,10 +370,17 @@
       <HintPath>D:/Unity/TeamOppertUnity/OppertUnity/Assets/ProCore/ProBuilder/Classes/ClassesLib/Poly2Tri.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.Analytics">
+<<<<<<< HEAD
       <HintPath>C:/Users/Matthijs/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.analytics@2.0.16/UnityEngine.Analytics.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.StandardEvents">
       <HintPath>C:/Users/Matthijs/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.standardevents@1.0.13/UnityEngine.StandardEvents.dll</HintPath>
+=======
+      <HintPath>C:/Users/M.A. Permadi/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.analytics@2.0.16/UnityEngine.Analytics.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.StandardEvents">
+      <HintPath>C:/Users/M.A. Permadi/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.standardevents@1.0.13/UnityEngine.StandardEvents.dll</HintPath>
+>>>>>>> eff0bb3ae54fc683c1d21dc817a13c5a9803b156
     </Reference>
     <Reference Include="mscorlib">
       <HintPath>D:/Program Files/Unity/Editor/Data/MonoBleedingEdge/lib/mono/unity/mscorlib.dll</HintPath>

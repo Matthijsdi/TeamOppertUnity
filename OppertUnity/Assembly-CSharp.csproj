@@ -61,6 +61,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <Compile Include="Assets\ProCore\ProBuilder\API Examples\Icosphere FFT\Scripts\CameraControls.cs" />
     <Compile Include="Assets\ProCore\ProBuilder\API Examples\Icosphere FFT\Scripts\IcoBumpin.cs" />
     <Compile Include="Assets\ProCore\ProBuilder\API Examples\Misc\HueCube.cs" />
@@ -101,7 +102,26 @@
       <HintPath>D:/Unity/TeamOppertUnity/OppertUnity/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
+<<<<<<< HEAD
       <HintPath>D:/Unity/TeamOppertUnity/OppertUnity/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+=======
+      <HintPath>C:/Users/Gert-Jan/Documents/Unity/TeamOppertUnity/OppertUnity/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+=======
+    <Compile Include="Assets\MainMenu.cs" />
+    <Compile Include="Assets\PauseMenu.cs" />
+    <Reference Include="UnityEditor.StandardEvents">
+      <HintPath>C:/Users/M.A. Permadi/Desktop/oppertUNITY/TeamOppertUnity/OppertUnity/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.TextMeshPro.Editor">
+      <HintPath>C:/Users/M.A. Permadi/Desktop/oppertUNITY/TeamOppertUnity/OppertUnity/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.PackageManagerUI.Editor">
+      <HintPath>C:/Users/M.A. Permadi/Desktop/oppertUNITY/TeamOppertUnity/OppertUnity/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.TextMeshPro">
+      <HintPath>C:/Users/M.A. Permadi/Desktop/oppertUNITY/TeamOppertUnity/OppertUnity/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+>>>>>>> 8ff42d81b922dac6701ea75c636fccec63b11aba
+>>>>>>> eff0bb3ae54fc683c1d21dc817a13c5a9803b156
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>D:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -301,6 +321,7 @@
     <Reference Include="UnityEngine.SpatialTracking">
       <HintPath>D:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll</HintPath>
     </Reference>
+<<<<<<< HEAD
     <Reference Include="ProBuilderCore-Unity5">
       <HintPath>D:/Unity/TeamOppertUnity/OppertUnity/Assets/ProCore/ProBuilder/Classes/ProBuilderCore-Unity5.dll</HintPath>
     </Reference>
@@ -320,7 +341,18 @@
       <HintPath>C:/Users/Matthijs/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.analytics@2.0.16/UnityEngine.Analytics.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.StandardEvents">
+<<<<<<< HEAD
       <HintPath>C:/Users/Matthijs/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.standardevents@1.0.13/UnityEngine.StandardEvents.dll</HintPath>
+=======
+      <HintPath>C:/Users/Gert-Jan/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.standardevents@1.0.13/UnityEngine.StandardEvents.dll</HintPath>
+=======
+    <Reference Include="UnityEngine.Analytics">
+      <HintPath>C:/Users/M.A. Permadi/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.analytics@2.0.16/UnityEngine.Analytics.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.StandardEvents">
+      <HintPath>C:/Users/M.A. Permadi/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.standardevents@1.0.13/UnityEngine.StandardEvents.dll</HintPath>
+>>>>>>> 8ff42d81b922dac6701ea75c636fccec63b11aba
+>>>>>>> eff0bb3ae54fc683c1d21dc817a13c5a9803b156
     </Reference>
     <Reference Include="mscorlib">
       <HintPath>D:/Program Files/Unity/Editor/Data/MonoBleedingEdge/lib/mono/unity/mscorlib.dll</HintPath>
