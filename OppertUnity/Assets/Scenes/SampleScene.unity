@@ -35142,7 +35142,7 @@ Mesh:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: pb_Mesh6250
+  m_Name: pb_Mesh18126
   serializedVersion: 9
   m_SubMeshes:
   - serializedVersion: 2
@@ -45010,7 +45010,7 @@ Mesh:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: pb_Mesh5632
+  m_Name: pb_Mesh17378
   serializedVersion: 9
   m_SubMeshes:
   - serializedVersion: 2
@@ -49308,6 +49308,23 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _entityType: 0
+--- !u!1 &1837432830 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 100048, guid: 1a66de14553b19c40a2e8b1671ae6db6,
+    type: 3}
+  m_PrefabInternal: {fileID: 459357722}
+--- !u!65 &1837432831
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1837432830}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.0034680085, y: 0.0063014464, z: 0.0029111754}
+  m_Center: {x: -0.010614696, y: 0.0019036098, z: -0.008482623}
 --- !u!1 &1837912690
 GameObject:
   m_ObjectHideFlags: 0
@@ -53985,6 +54002,23 @@ Mesh:
   m_MeshMetrics[0]: 1
   m_MeshMetrics[1]: 1
   m_MeshOptimized: 0
+--- !u!1 &1942390916 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 100152, guid: 584f2af9a86f6304dba4062e3f13b935,
+    type: 3}
+  m_PrefabInternal: {fileID: 1483114266}
+--- !u!65 &1942390917
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1942390916}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.0531574, y: 0.5466405, z: 0.41636285}
+  m_Center: {x: -0.85568535, y: 0.024404427, z: -0.32352728}
 --- !u!1 &1955584715
 GameObject:
   m_ObjectHideFlags: 0
